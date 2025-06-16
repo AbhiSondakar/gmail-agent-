@@ -29,7 +29,7 @@ LangChain
 Gemini / LLaMA
 
 🖥 Backend:
-
+for backend code contact : smileyishere1008@gmail.com / 6362411983 / 9740636815
 Java 21
 
 Spring Boot
